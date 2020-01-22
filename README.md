@@ -8,3 +8,6 @@ The *ice* folder contains in-class exercises.
 As a web designer, I'd like a career that focuses on Front-End languages and frameworks to create attractive and useful websites or apps. I have experience in Javascript and am familiar with multiple frameworks including React. A career centered around React and React Native could be possible, with some more experience.
 
 https://github.com/NathanS97
+
+## Conflicts
+This section represents code on the server that ins't in the local repository.
