@@ -1,0 +1,37 @@
+import React from "react";
+import logo from "./logo.svg";
+import "./App.css";
+
+function NameBadge(props) {
+  console.log(props);
+  return <p>My name is {props.name}</p>;
+}
+
+class App extends React.Component {
+  clickHandler = e => {
+    alert("CLicked!");
+    console.log(this);
+    console.log(e);
+  };
+
+  render() {
+    return (
+      <div className='App'>
+        <header className='App-header'>
+          <div onClick={this.clickHandler}>
+            <img src={logo} className='App-logo' alt='logo' />
+          </div>
+          <p>Hello World</p>
+          <NameBadge name='Nathan' />
+          <NameBadge name='Thomas' />
+          <NameBadge name='Jesse' />
+          <a className='App-link' href='https://reactjs.org' target='_blank' rel='noopener noreferrer'>
+            Learn React
+          </a>
+        </header>
+      </div>
+    );
+  }
+}
+
+export default App;
