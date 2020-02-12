@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "36514c0b1f4a9711f57d85c293bd85c1",
+    "revision": "487a8a8f9c3e9afbd220bf577f4c568e",
     "url": "/dig4639-mobile-dev/index.html"
   },
   {
-    "revision": "95fee7f615f64e5f7695",
+    "revision": "b36106f4ae36d72a8c7f",
     "url": "/dig4639-mobile-dev/static/css/main.a9827d45.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dig4639-mobile-dev/static/js/2.3ded2b1a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "95fee7f615f64e5f7695",
-    "url": "/dig4639-mobile-dev/static/js/main.95ef6fb5.chunk.js"
+    "revision": "b36106f4ae36d72a8c7f",
+    "url": "/dig4639-mobile-dev/static/js/main.64f87790.chunk.js"
   },
   {
     "revision": "170169ccdc7dff24daa3",
