@@ -57,7 +57,7 @@ function compareNumbers(a, b) {
 }
 printItems(myArray.sort((a, b) => a - b));
 
-let todoList = [
+const todoList = [
   {
     content: 'Task 1', priority: 2, completed: true
   },
