@@ -1,0 +1,107 @@
+[
+  {
+    "question": "How hard is it to learn online vs in person?",
+    "answers": [
+      {
+        "text": "Not hard at all",
+        "correct": false
+      },
+      {
+        "text": "A little difficult",
+        "correct": false
+      },
+      {
+        "text": "Kinda hard",
+        "correct": false
+      },
+      {
+        "text": "It's driving me insane how hard it is to adjust",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "How long should you wash your hands?",
+    "answers": [
+      {
+        "text": "10 seconds with soap and water",
+        "correct": false
+      },
+      {
+        "text": "20 seconds with soap and water",
+        "correct": true
+      },
+      {
+        "text": "5 seconds with hand sanitizer",
+        "correct": false
+      },
+      {
+        "text": "30 minutes with bleach",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "How far should you keep your distance from others?",
+    "answers": [
+      {
+        "text": "6 meters",
+        "correct": false
+      },
+      {
+        "text": "Distance doesn't matter",
+        "correct": false
+      },
+      {
+        "text": "2 feet",
+        "correct": false
+      },
+      {
+        "text": "6 feet",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "What is worth gathering in this situation?",
+    "answers": [
+      {
+        "text": "Non-perisable food",
+        "correct": true
+      },
+      {
+        "text": "Masks, soap, and hand sanitizer",
+        "correct": false
+      },
+      {
+        "text": "40 of the same grocery item that will go bad in a week",
+        "correct": false
+      },
+      {
+        "text": "Toilet Paper",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "When will we be able to go back to normal classes?",
+    "answers": [
+      {
+        "text": "Never?",
+        "correct": false
+      },
+      {
+        "text": "Next Monday",
+        "correct": false
+      },
+      {
+        "text": "12-15 business days",
+        "correct": false
+      },
+      {
+        "text": "3-4 busiess months",
+        "correct": true
+      }
+    ]
+  }
+]
